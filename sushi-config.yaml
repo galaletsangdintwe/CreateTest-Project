@@ -37,7 +37,7 @@ releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | re
 # as IG.publisher.  The contact details and/or additional publishers
 # will be translated into IG.contact values.
 publisher:
-  name:GalaHIE
+  name: GalaHIE
   url: https://GalaHIE.url/
   email: galaletsangdintwe11@.org
 
