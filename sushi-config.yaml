@@ -7,11 +7,11 @@
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 
 
-id: your.package.id
-canonical: http://your.canonical.url/fhir
-url: http://your.canonical.url/fhir/ImplementationGuide/your.package.id
-name: YourIgComputableName
-title: "Your IG Title"
+id: gala.hie.fhir
+canonical: http://moh.bw.org/fhir
+url: http://moh.bw.org//fhir/ImplementationGuide/gala.hie.fhir
+name: GalaHIE
+title: "Gala Health Information Exchange FHIR IG"
 description: A sample FHIR Implementation Guide to create capacity among the community.
 status: active
 license: CC0-1.0
@@ -21,7 +21,7 @@ version: 1.0.0
 # Although fhirVersions is 0..* in the ImplementationGuide resource
 # it can be a single item OR and array here, but the current tooling 
 # only supports one FHIR version per Implementation Guide
-fhirVersion: 4.0.1
+fhirVersion: 5.0.1
 
 # The following two lines correspond to items that used to be in
 # ig.ini but were moved to IG.definition.parameter. For
@@ -37,9 +37,9 @@ releaseLabel: ci-build # ci-build | draft | qa-preview | ballot | trial-use | re
 # as IG.publisher.  The contact details and/or additional publishers
 # will be translated into IG.contact values.
 publisher:
-  name: Your Organization 
-  url: https://organization.url/
-  email: info@someorg.org
+  name:GalaHIE
+  url: https://GalaHIE.url/
+  email: galaletsangdintwe11@.org
 
 # ContactDetail is required by the template.
 contact:
