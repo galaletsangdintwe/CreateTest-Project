@@ -8,4 +8,4 @@ Description: "This is my cool patientnmae"
 * gender 1..1 MS
 * birthDate 0..1 MS
 * address 0..* MS
-•⁠  ⁠maritalStatus from VSMaritalStatus (extensible)
+* maritalStatus from VSMaritalStatus (extensible)
