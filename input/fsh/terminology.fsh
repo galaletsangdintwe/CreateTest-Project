@@ -7,6 +7,7 @@ Description: "A list of codes for marital status."
 •⁠  ⁠^status = #active
 •⁠  ⁠^caseSensitive = true
 •⁠  ⁠#Other "Other"
+
 ValueSet: VSMaritalStatus
 Id: vs-marital-status
 Title: "Marital Status"
