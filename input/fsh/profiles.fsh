@@ -9,3 +9,5 @@ Description: "This is my cool patientnmae"
 * birthDate 0..1 MS
 * address 0..* MS
 * maritalStatus from VSMaritalStatus (extensible)
+
+* extension contains MyMaritalStatusExtension named MaritalStatus 1..1
